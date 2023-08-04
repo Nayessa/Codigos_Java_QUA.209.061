@@ -20,7 +20,7 @@ public class Variaveis {
      String sexo = "Masculino";
 		   
     		
-      System.out.println("Meu nome é: "+ nome + " ,meu sobrenome é: "+ sobrenome +" +  ,minha idade é " + idade + " , meu gênero é " +  sexo  +   " meu peso é "  + peso );
+      System.out.println("Meu nome é: "+ nome +  " ,meu sobrenome é: "+ sobrenome + " +  ,minha idade é " + idade +   , meu gênero é " +  sexo  +   " meu peso é "  + peso );
       System.out.print("valor" = +'F');
       System.out.print("valor" = + 'T');
      
